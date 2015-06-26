@@ -22,7 +22,7 @@ This project is written in ruby.
 
 5. `touch offset`
 
-6. `ruby hodor.rb`
+6. `nohup ruby hodor.rb > output & `
 
 ## License
 
