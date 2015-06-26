@@ -16,9 +16,7 @@ This project is written in ruby.
 
 2. `git clone https://github.com/prashantbarca/hodor-telegram-bot && cd hodor-telegram-bot`
 
-3. Add the following line to your `~/.bashrc` if you are using bash or `~/.zshrc` if you are using zsh. 
-
-`export TELEGRAM_API=<your bot key>`
+3. Add the following line to your `~/.bashrc` if you are using bash or `~/.zshrc` if you are using zsh. `export TELEGRAM_API=<your bot key>`
 
 4. `source ~/.bashrc` or `source ~/.zshrc`
 
